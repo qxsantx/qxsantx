@@ -1,65 +1,31 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Santiago Mayorga — Estudiante de Ingeniería de Software en Medellín, Colombia. Construyo aplicaciones web y móviles, de la base de datos a la interfaz." src="assets/header-light.svg" width="100%">
-</picture>
+<img src="assets/hero.svg" width="100%" alt="Santiago Mayorga Hueso — Estudiante de Ingeniería de Software en la Universidad Cooperativa de Colombia, Medellín. Desarrollo backend, web y móvil con Java, Python, JavaScript y SQL. Abierto a prácticas.">
 
-<br>
+<p align="center">
+  <a href="mailto:santiagomayorga777@gmail.com"><img src="assets/btn-correo.svg" height="50" alt="Escribir un correo"></a>&nbsp;
+  <a href="https://github.com/qxsantx?tab=repositories"><img src="assets/btn-repos.svg" height="50" alt="Ver repositorios"></a>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/sec-projects-dark.svg">
-  <img alt="01 — Proyectos destacados" src="assets/sec-projects-light.svg" width="100%">
-</picture>
+Estudiante de **Ingeniería de Software** en la Universidad Cooperativa de Colombia, Medellín. Desarrollo back-end con **Java y Spring Boot**, trabajo con datos en **Python y PostgreSQL**, construyo sitios con **HTML, CSS y JavaScript** y participé en la planeación de una app móvil en **Flutter**. Busco oportunidades de **práctica profesional** en desarrollo de software, presencial, híbrida o remota.
 
-<a href="https://github.com/geminitodo5-sketch/app-educativa-medellin">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/card-numi-dark.svg">
-    <img alt="Numi — app educativa offline para niños de zonas rurales, con asistente de IA en el celular. Flutter, Dart." src="assets/card-numi-light.svg" width="100%">
-  </picture>
-</a>
+<img src="assets/trayectoria.svg" width="100%" alt="Trayectoria: 2023 inicio de carrera en la UCC; 2024 Estructura de Datos en Python; 2025 Arquitectura de Software con PostgreSQL y Streamlit, Computación Ubicua con Arduino, API de tareas con Spring Boot y CineX en equipo; 2026 Numi y Entre Sorbos en equipo; próxima estación: práctica profesional.">
 
-<a href="https://github.com/AlexanderM-Code/Entre-sorbos---Casa-Rendon">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/card-sorbos-dark.svg">
-    <img alt="Entre Sorbos – Casa Rendón — sitio web para una marca artesanal de café y vino de Andes, Antioquia. HTML, CSS, JavaScript." src="assets/card-sorbos-light.svg" width="100%">
-  </picture>
-</a>
+<img src="assets/sec-proyectos.svg" width="100%" alt="02 — Proyectos">
 
-<a href="https://github.com/AlexanderM-Code/CineX---Proyecto-Final">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/card-cinex-dark.svg">
-    <img alt="CineX — sistema de gestión de cine con carrusel de películas y horarios. Java, Spring Boot, JavaScript." src="assets/card-cinex-light.svg" width="100%">
-  </picture>
-</a>
+<p>
+  <a href="https://github.com/geminitodo5-sketch/app-educativa-medellin"><img src="assets/p-numi.svg" width="49%" alt="Numi — app educativa offline con asistente de IA. Flutter, Dart."></a>
+  <a href="https://github.com/AlexanderM-Code/Entre-sorbos---Casa-Rendon"><img src="assets/p-sorbos.svg" width="49%" alt="Entre Sorbos – Casa Rendón — sitio web de café y vino de Andes. HTML, CSS, JavaScript."></a>
+</p>
+<p>
+  <a href="https://github.com/AlexanderM-Code/CineX---Proyecto-Final"><img src="assets/p-cinex.svg" width="49%" alt="CineX — gestión de cine con API REST en Java y Spring Boot."></a>
+  <a href="https://github.com/qxsantx/Trabajo-Final-Arquitectura-de-Software"><img src="assets/p-bots.svg" width="49%" alt="Bots Analytics — arquitectura por capas en Python con PostgreSQL, base de datos espejo y Streamlit."></a>
+</p>
+<p>
+  <a href="https://github.com/qxsantx/Computacion-Ubicua"><img src="assets/p-iot.svg" width="49%" alt="Computación Ubicua — laboratorios con Arduino, sensores y robótica."></a>
+  <a href="https://github.com/qxsantx/Evaluacion-programacion"><img src="assets/p-tasks.svg" width="49%" alt="Tareas Académicas — API REST con Spring Boot por capas."></a>
+</p>
 
-<br>
+<img src="assets/competencias.svg" width="100%" alt="Competencias: Java (Spring Boot), Python (datos y Streamlit), PostgreSQL, MySQL, JavaScript, HTML y CSS, Dart y Flutter, C++ y Arduino, Git y GitHub.">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/sec-stack-dark.svg">
-  <img alt="02 — Stack y herramientas" src="assets/sec-stack-light.svg" width="100%">
-</picture>
+<img src="assets/indicadores.svg" width="100%" alt="6 proyectos publicados, 3 en equipo, más de 100 commits en repositorios propios, 6 lenguajes.">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <img alt="Lenguajes: Java, JavaScript, Python. Web: HTML5, CSS3. Bases de datos: SQL, PostgreSQL, MySQL. Herramientas: Git, GitHub, VS Code, MySQL Workbench, pgAdmin." src="assets/stack-light.svg" width="100%">
-</picture>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/sec-work-dark.svg">
-  <img alt="03 — Cómo trabajo" src="assets/sec-work-light.svg" width="100%">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/work-dark.svg">
-  <img alt="Trabajo colaborativo, Git y GitHub, desarrollo basado en requerimientos, análisis y solución de problemas, diseño de bases de datos, pruebas y corrección de errores." src="assets/work-light.svg" width="100%">
-</picture>
-
-<br>
-
-<a href="mailto:santiagomayorga777@gmail.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
-    <img alt="Contacto: santiagomayorga777@gmail.com — abierto a prácticas y oportunidades, presencial, híbrido o remoto." src="assets/footer-light.svg" width="100%">
-  </picture>
-</a>
+<a href="mailto:santiagomayorga777@gmail.com"><img src="assets/cta.svg" width="100%" alt="Próxima estación: práctica profesional. santiagomayorga777@gmail.com"></a>
