@@ -1,9 +1,10 @@
 <img src="assets/hero.svg" width="100%" alt="Santiago Mayorga Hueso — Estudiante de Ingeniería de Software en la Universidad Cooperativa de Colombia, Medellín. Desarrollo backend, web y móvil con Java, Python, JavaScript y SQL. Abierto a prácticas.">
 
 <p align="center">
-  <a href="https://qxsantx.github.io"><img src="assets/btn-portafolio.svg" height="50" alt="Ver portafolio"></a>&nbsp;
-  <a href="https://qxsantx.github.io/Santiago_Mayorga_Hueso_CV.pdf"><img src="assets/btn-cv.svg" height="50" alt="Hoja de vida (PDF)"></a>&nbsp;
-  <a href="mailto:santiagomayorga777@gmail.com"><img src="assets/btn-correo2.svg" height="50" alt="Escribir un correo"></a>
+  <a href="https://qxsantx.github.io"><img src="assets/btn-portafolio.svg" height="44" alt="Ver portafolio"></a>&nbsp;
+  <a href="https://qxsantx.github.io/Santiago_Mayorga_Hueso_CV.pdf"><img src="assets/btn-cv.svg" height="44" alt="Hoja de vida (PDF)"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/santiago-mayorga-hueso"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn"></a>&nbsp;
+  <a href="mailto:santiagomayorga777@gmail.com"><img src="assets/btn-correo2.svg" height="44" alt="Escribir un correo"></a>
 </p>
 
 Estudiante de **Ingeniería de Software** en la Universidad Cooperativa de Colombia, Medellín. Desarrollo back-end con **Java y Spring Boot**, trabajo con datos en **Python y PostgreSQL**, construyo sitios con **HTML, CSS y JavaScript** y participé en la planeación de una app móvil en **Flutter**. Busco oportunidades de **práctica profesional** en desarrollo de software, presencial, híbrida o remota.
